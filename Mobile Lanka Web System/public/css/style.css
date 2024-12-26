@@ -1,0 +1,47 @@
+/* CSS file: public/css/style.css */
+
+/* Container for the grid layout */
+.product-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Responsive columns */
+    gap: 20px; /* Space between items */
+    padding: 20px;
+}
+
+/* Individual product item styling */
+.product-item {
+    background-color: #eae9e9; /* Light gray background */
+    border: 1px solid #c2bfbf; /* Light border */
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease; /* Smooth animations */
+}
+
+/* Hover effect for product item */
+.product-item:hover {
+    transform: translateY(-5px); /* Lift the card slightly */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Add shadow */
+}
+
+/* Product image styling */
+.product-item img {
+    max-width: 100%; /* Responsive image */
+    border-radius: 10px; /* Rounded corners */
+}
+
+/* Product details link */
+.view-details {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 15px;
+    background-color: #4CAF50; /* Green button */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.2s ease;
+}
+
+.view-details:hover {
+    background-color: #45a049; /* Slightly darker green on hover */
+}
