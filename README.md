@@ -80,8 +80,8 @@ Welcome to **Mobile Lanka**, a Laravel-based mobile phone selling application! T
 ----
 
 ### 🔑 ScreenShot
-<img src="public/images/11.png" alt="Home Page Screenshot" width="500" height="300"/>
-<img src="public/images/12.png" alt="Home Page Screenshot" width="500" height="300"/>
-<img src="public/images/13.png" alt="Home Page Screenshot" width="500" height="300"/>
+<img src="Mobile Lanka Web System/public/images/11.png" alt="Home Page Screenshot" width="500" height="300"/>
+<img src="Mobile Lanka Web System/public/images/12.png" alt="Home Page Screenshot" width="500" height="300"/>
+<img src="Mobile Lanka Web System/public/images/13.png" alt="Home Page Screenshot" width="500" height="300"/>
 
 ⭐ Don't forget to give the repo a star if you found it useful! 🌟
