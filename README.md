@@ -79,6 +79,12 @@ Welcome to **Mobile Lanka**, a Laravel-based mobile phone selling application! T
 
 ----
 
+🤝 Contributing
+This web was developed by <a href="https://www.linkedin.com/in/mudithasasanka7/"> Mudita </a> and <a href="https://www.linkedin.com/in/harsha-hewa-maddumage-52520a1ba/">Harsha</a>. We welcome contributions! Feel free to fork this repository, make changes, and submit a pull request.
+
+
+---
+
 ### 🔑 ScreenShot
 <img src="Mobile Lanka Web System/public/images/11.png" alt="Home Page Screenshot" width="500" height="300"/>
 <img src="Mobile Lanka Web System/public/images/12.png" alt="Home Page Screenshot" width="500" height="300"/>
